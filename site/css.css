@@ -1,0 +1,9 @@
+body {
+  background-color: #fff;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1;
+  font-family: -apple-system,BlinkMacSystemFont,Helvetica,arial,sans-serif;
+  font-size: 16px;
+  line-height: 1.5em;
+  margin: 24px;
+}
